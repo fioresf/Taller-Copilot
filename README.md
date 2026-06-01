@@ -139,3 +139,4 @@ Reglas obligatorias para la cuenta:
 ## 8. Licencia
 Este proyecto está bajo la licencia MIT.
 Consulta [LICENSE](LICENSE).
+
